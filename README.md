@@ -1,4 +1,4 @@
-NIM : 222111964
+NIM : 222111964 <br>
 Nama : Cecilia Putri Dianti
 Judul Skripsi : Penyusunan Indeks Kerentanan Sosial terhadap Bencana Alam di Pulau Jawa Tahun 2024: Integrasi Official Statistics dan Big Data Geospasial
 Nama Dosen Pembimbing :  Dr. Tiodora Hadumaon Siagian, M. Pop. Hum. Res.
